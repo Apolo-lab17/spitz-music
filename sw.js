@@ -1,8 +1,8 @@
 const CACHE_NAME = 'spitz-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  '/spitz-music/',
+  '/spitz-music/index.html',
+  '/spitz-music/manifest.json'
 ];
 
 self.addEventListener('install', e => {
