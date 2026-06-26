@@ -2,7 +2,7 @@
   "name": "SPITZ Music",
   "short_name": "SPITZ",
   "description": "Tu reproductor de música personal",
-  "start_url": "/",
+  "start_url": "/spitz-music/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
